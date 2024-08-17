@@ -1,0 +1,14 @@
+{
+    "current": {
+        "ssid" : "YourNetwork",
+        "password" : "YourPassword",
+        "ip" : "",
+        "port" : ""
+    },
+    "backup": {
+        "ssid" : "",
+        "password" : "",
+        "ip" : "",
+        "port" : ""
+    }
+}

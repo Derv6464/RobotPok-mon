@@ -1,0 +1,1 @@
+{"current": {"ssid": "yourIp", "ip": "172.20.10.3", "password": "yourPassword", "port": "80"}, "backup": {"ssid": "test", "ip": "172.20.10.3", "password": "password", "port": "80"}}
