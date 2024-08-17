@@ -1,4 +1,4 @@
-# RobotPokemon
+# Life Size Fuecoco Robot
 This is a fully 3d printed robotic Fuecoco Pokemon. It can be controlled over wifi using a custom bulit contoller or a website
 
 This was a college project for Immersive Software Engineering CS4445 and for a cosplay for Dubin Comic Con 2024.
@@ -53,6 +53,8 @@ All the STL files can be found [here](#)
 
 The top of the conrollet was laser cut from 3mm clear acrylic so the LEDs could shine through
 This could be 3d printed if a laser cutter is not accessible
+
+note the head has weird slots on the back, ingnore them and glue magnets instead
 
 ## Assembly
 - 3d print all the parts
