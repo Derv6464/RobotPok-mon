@@ -1,7 +1,9 @@
 # How to make Fuecoco
+
 ## Parts
-## Parts
-Electronics
+
+### Electronics
+
 | Part | Quantity | Used in | link |
 |------|----------| -------| -----|
 |Raspberry Pi Pico W| 2 | Pokemon and Controller | [Link](https://thepihut.com/products/raspberry-pi-pico-w) |
@@ -18,27 +20,32 @@ Electronics
 | Solderable breadboard | 1 | Controller | [Link](https://thepihut.com/products/adafruit-perma-proto-half-sized-breadboard-pcb-single) |
 | resistors | 1 | Controller | 330 ohm |
 
-Other Parts
+### Other Parts
+
 | Part | Quantity | Used in | link |
 |------|----------| -------| -----|
 | Lego Wheel | 3 | Pokemon | 
 | Lego Wheel Holder | 3 | Pokemon |
 | Lego Wheel Axle | 3 | Pokemon |
 | Lego Wheel Axle Holder | 3 | Pokemon |
-| LED Holder | 2 | Controller |
+| LED Holder | 2 | Controller | 
 | Magnets | 4 | Pokemon |
-| Lots of hot glue | | Pokemon and Controller |
-| Lots of filler | | Pokemon |
-| Red spray paint | 1 | Pokemon |
-| Black spray paint | 1 | Pokemon |
-| White spray paint | 1 | Pokemon |
-| off white spray paint | 1 | Pokemon |
-| yellow spray paint | 1 | Pokemon |
+| Lots of hot glue | | Pokemon and Controller | Any |
+| Lots of filler | | Pokemon | [Link](https://www.halfords.ie/motoring/paints-body-repair/fillers-preparation/holts-cataloy-knifing-putty-100g-154211.html) |
+| Red spray paint | 1 | Pokemon | [Link](https://allcitygraffiti.com/products/red-madrid-94?variant=3243807178792) |
+| Black spray paint | 1 | Pokemon | [Link](https://allcitygraffiti.com/products/black-94) |
+| White spray paint | 1 | Pokemon | [Link](https://allcitygraffiti.com/products/white-94) |
+| off white spray paint | 1 | Pokemon | [Link](https://allcitygraffiti.com/products/blanco-hueso-94) |
+| yellow spray paint | 1 | Pokemon | [Link](https://allcitygraffiti.com/products/medium-yellow-94?variant=3243953881128) |
+| light pink spray paint | 1 | Pokemon | [Link](https://allcitygraffiti.com/products/rosa-boreal-94?variant=3244061720616) |
+| dark pink spray paint | 1 | Pokemon | [Link](https://allcitygraffiti.com/products/rosa-stereo-94?variant=3246509293608) |
 
 All lego parts gotten from the lego mindstorms kit
 
 ## 3D Printing & laser cutting
+
 It was just alot of sanding and filling, I spent about 40hr sanding and filling
+
 1. 3d print all the parts (note these aren't the best models and have some issues)
 print pic
 2. do a lot of sanding and filling
@@ -52,7 +59,6 @@ sanding and filling pic
 7. do a coat of red colour
 8. do more sanding and filling for any imperfections
 9. do the final coat of spray paint
-
 
 The order of the final coat colours I did was:
 
