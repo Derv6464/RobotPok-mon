@@ -4,19 +4,19 @@
 Electronics
 | Part | Quantity | Used in | link |
 |------|----------| -------| -----|
-|Raspberry Pi Pico W| 2 | Pokemon and Controller |
-|Kitronik Motor Driver Board| 1 | Pokemon |
-|Servo Motor| 2 | Pokemon |
-|DC Hobby Motor| 3| Pokemon |
-| 6AA Battery Holder| 1 | Pokemon |
-| 3AAA Battery Holder| 2 | Pokemon and Controller |
-|Neopixel Strip| 1 | Pokemon |
-| Buttons | 4 | Controller |
-| Joystick | 1 | Controller |
-| LEDs | 2 | Controller |
-| Light n00d | 1 | Controller |
-| Solderable breadboard | 1 | Controller |
-| resistors | 2 | Controller |
+|Raspberry Pi Pico W| 2 | Pokemon and Controller | [Link](https://thepihut.com/products/raspberry-pi-pico-w) |
+|Kitronik Motor Driver Board| 1 | Pokemon | [Link](https://kitronik.co.uk/products/5329-kitronik-compact-robotics-board-for-raspberry-pi-pico?pr_prod_strat=e5_desc&pr_rec_id=2a76700a8&pr_rec_pid=6551127818303&pr_ref_pid=7108781441087&pr_seq=uniform) |
+|Servo Motor| 2 | Pokemon | [Link](https://thepihut.com/products/towerpro-servo-motor-sg90-digital) |
+|TT Hobby Motor| 3| Pokemon | [Link](https://thepihut.com/products/dc-gearbox-motor-tt-motor-200rpm-3-to-6vdc) |
+| 6AA Battery Holder| 1 | Pokemon | [Link](https://www.digikey.ie/en/products/detail/mpd-memory-protection-devices/BH16AAW/857244) |
+| 3AAA Battery Holder| 2 | Pokemon and Controller | [Link](https://thepihut.com/products/3-x-aaa-battery-holder-with-on-off-switch-and-2-pin-jst) |
+|Neopixel Strip| 1 | Pokemon | [Link](https://thepihut.com/products/adafruit-neopixel-digital-rgb-led-strip-white-60-led-white) |4
+| Buttons | 4 | Controller | [Link](https://www.mouser.ie/ProductDetail/Shin-Chin/R13-510A-05-BB?qs=F3UvtXhGJLNb6k88C5W3XA%3D%3D) |
+| Joystick | 1 | Controller | Taken from broken controller |
+| LEDs | 1 | Controller | Any |
+| Light n00d | 1 | Controller | [Link](https://thepihut.com/products/noods-flexible-led-filament-3v-300mm-warm-white) |
+| Solderable breadboard | 1 | Controller | [Link](https://thepihut.com/products/adafruit-perma-proto-half-sized-breadboard-pcb-single) |
+| resistors | 1 | Controller | 330 ohm |
 
 Other Parts
 | Part | Quantity | Used in | link |
